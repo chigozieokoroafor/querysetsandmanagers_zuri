@@ -1,0 +1,1 @@
+# querysetsandmanagers_zuri
